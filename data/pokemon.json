@@ -1,0 +1,1529 @@
+{
+  "pokemon-list": {
+    "totalItems": 22,
+    "pokemonSummaryList": [
+      {
+        "pokemonId": "001",
+        "name": "Bulbasaur",
+        "type": ["Grass", "Poison"],
+        "abilities": ["Overgrow", "Chlorophyll"],
+        "baseStats": {
+          "hp": 45,
+          "attack": 49,
+          "defense": 49,
+          "specialAttack": 65,
+          "specialDefense": 65,
+          "speed": 45
+        },
+        "evolution": {
+          "nextEvolution": "Ivysaur",
+          "level": 16
+        }
+      },
+      {
+        "pokemonId": "002",
+        "name": "Ivysaur",
+        "type": ["Grass", "Poison"],
+        "abilities": ["Overgrow", "Chlorophyll"],
+        "baseStats": {
+          "hp": 60,
+          "attack": 62,
+          "defense": 63,
+          "specialAttack": 80,
+          "specialDefense": 80,
+          "speed": 60
+        },
+        "evolution": {
+          "nextEvolution": "Venusaur",
+          "level": 32
+        }
+      },
+      {
+        "pokemonId": "003",
+        "name": "Venusaur",
+        "type": ["Grass", "Poison"],
+        "abilities": ["Overgrow", "Chlorophyll"],
+        "baseStats": {
+          "hp": 80,
+          "attack": 82,
+          "defense": 83,
+          "specialAttack": 100,
+          "specialDefense": 100,
+          "speed": 80
+        },
+        "evolution": {
+          "nextEvolution": "None",
+          "level": 0
+        }
+      },
+      {
+        "pokemonId": "004",
+        "name": "Charmander",
+        "type": ["Fire"],
+        "abilities": ["Blaze"],
+        "baseStats": {
+          "hp": 39,
+          "attack": 52,
+          "defense": 43,
+          "specialAttack": 60,
+          "specialDefense": 50,
+          "speed": 65
+        },
+        "evolution": {
+          "nextEvolution": "Charmeleon",
+          "level": 16
+        }
+      },
+      {
+        "pokemonId": "005",
+        "name": "Charmeleon",
+        "type": ["Fire"],
+        "abilities": ["Blaze"],
+        "baseStats": {
+          "hp": 58,
+          "attack": 64,
+          "defense": 58,
+          "specialAttack": 80,
+          "specialDefense": 65,
+          "speed": 80
+        },
+        "evolution": {
+          "nextEvolution": "Charizard",
+          "level": 36
+        }
+      },
+      {
+        "pokemonId": "006",
+        "name": "Charizard",
+        "type": ["Fire", "Flying"],
+        "abilities": ["Blaze", "Solar Power"],
+        "baseStats": {
+          "hp": 78,
+          "attack": 84,
+          "defense": 78,
+          "specialAttack": 109,
+          "specialDefense": 85,
+          "speed": 100
+        },
+        "evolution": {
+          "nextEvolution": "None",
+          "level": 0
+        }
+      },
+      {
+        "pokemonId": "007",
+        "name": "Squirtle",
+        "type": ["Water"],
+        "abilities": ["Torrent"],
+        "baseStats": {
+          "hp": 44,
+          "attack": 48,
+          "defense": 65,
+          "specialAttack": 50,
+          "specialDefense": 64,
+          "speed": 43
+        },
+        "evolution": {
+          "nextEvolution": "Wartortle",
+          "level": 16
+        }
+      },
+      {
+        "pokemonId": "008",
+        "name": "Wartortle",
+        "type": ["Water"],
+        "abilities": ["Torrent"],
+        "baseStats": {
+          "hp": 59,
+          "attack": 63,
+          "defense": 80,
+          "specialAttack": 65,
+          "specialDefense": 80,
+          "speed": 58
+        },
+        "evolution": {
+          "nextEvolution": "Blastoise",
+          "level": 36
+        }
+      },
+      {
+        "pokemonId": "009",
+        "name": "Blastoise",
+        "type": ["Water"],
+        "abilities": ["Torrent", "Rain Dish"],
+        "baseStats": {
+          "hp": 79,
+          "attack": 83,
+          "defense": 100,
+          "specialAttack": 85,
+          "specialDefense": 105,
+          "speed": 78
+        },
+        "evolution": {
+          "nextEvolution": "None",
+          "level": 0
+        }
+      },
+      {
+        "pokemonId": "010",
+        "name": "Caterpie",
+        "type": ["Bug"],
+        "abilities": ["Shield Dust", "Run Away"],
+        "baseStats": {
+          "hp": 45,
+          "attack": 30,
+          "defense": 35,
+          "specialAttack": 20,
+          "specialDefense": 20,
+          "speed": 45
+        },
+        "evolution": {
+          "nextEvolution": "Metapod",
+          "level": 7
+        }
+      },
+      {
+        "pokemonId": "011",
+        "name": "Metapod",
+        "type": ["Bug"],
+        "abilities": ["Shed Skin"],
+        "baseStats": {
+          "hp": 50,
+          "attack": 20,
+          "defense": 55,
+          "specialAttack": 25,
+          "specialDefense": 25,
+          "speed": 30
+        },
+        "evolution": {
+          "nextEvolution": "Butterfree",
+          "level": 10
+        }
+      },
+      {
+        "pokemonId": "012",
+        "name": "Butterfree",
+        "type": ["Bug", "Flying"],
+        "abilities": ["Compound Eyes", "Tinted Lens"],
+        "baseStats": {
+          "hp": 60,
+          "attack": 45,
+          "defense": 50,
+          "specialAttack": 90,
+          "specialDefense": 80,
+          "speed": 70
+        },
+        "evolution": {
+          "nextEvolution": "None",
+          "level": 0
+        }
+      },
+      {
+        "pokemonId": "013",
+        "name": "Weedle",
+        "type": ["Bug", "Poison"],
+        "abilities": ["Shield Dust", "Run Away"],
+        "baseStats": {
+          "hp": 40,
+          "attack": 35,
+          "defense": 30,
+          "specialAttack": 20,
+          "specialDefense": 20,
+          "speed": 50
+        },
+        "evolution": {
+          "nextEvolution": "Kakuna",
+          "level": 7
+        }
+      },
+      {
+        "pokemonId": "014",
+        "name": "Kakuna",
+        "type": ["Bug", "Poison"],
+        "abilities": ["Shed Skin"],
+        "baseStats": {
+          "hp": 45,
+          "attack": 25,
+          "defense": 50,
+          "specialAttack": 25,
+          "specialDefense": 25,
+          "speed": 35
+        },
+        "evolution": {
+          "nextEvolution": "Beedrill",
+          "level": 10
+        }
+      },
+      {
+        "pokemonId": "015",
+        "name": "Beedrill",
+        "type": ["Bug", "Poison"],
+        "abilities": ["Swarm", "Sniper"],
+        "baseStats": {
+          "hp": 65,
+          "attack": 90,
+          "defense": 40,
+          "specialAttack": 45,
+          "specialDefense": 80,
+          "speed": 75
+        },
+        "evolution": {
+          "nextEvolution": "None",
+          "level": 0
+        }
+      },
+      {
+        "pokemonId": "016",
+        "name": "Pidgey",
+        "type": ["Normal", "Flying"],
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "baseStats": {
+          "hp": 40,
+          "attack": 45,
+          "defense": 40,
+          "specialAttack": 35,
+          "specialDefense": 35,
+          "speed": 56
+        },
+        "evolution": {
+          "nextEvolution": "Pidgeotto",
+          "level": 18
+        }
+      },
+      {
+        "pokemonId": "017",
+        "name": "Pidgeotto",
+        "type": ["Normal", "Flying"],
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "baseStats": {
+          "hp": 63,
+          "attack": 60,
+          "defense": 55,
+          "specialAttack": 50,
+          "specialDefense": 50,
+          "speed": 71
+        },
+        "evolution": {
+          "nextEvolution": "Pidgeot",
+          "level": 36
+        }
+      },
+      {
+        "pokemonId": "018",
+        "name": "Pidgeot",
+        "type": ["Normal", "Flying"],
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "baseStats": {
+          "hp": 83,
+          "attack": 80,
+          "defense": 75,
+          "specialAttack": 70,
+          "specialDefense": 70,
+          "speed": 101
+        },
+        "evolution": {
+          "nextEvolution": "None",
+          "level": 0
+        }
+      },
+      {
+        "pokemonId": "019",
+        "name": "Rattata",
+        "type": ["Normal"],
+        "abilities": ["Run Away", "Guts"],
+        "baseStats": {
+          "hp": 30,
+          "attack": 56,
+          "defense": 35,
+          "specialAttack": 25,
+          "specialDefense": 35,
+          "speed": 72
+        },
+        "evolution": {
+          "nextEvolution": "Raticate",
+          "level": 20
+        }
+      },
+      {
+        "pokemonId": "020",
+        "name": "Raticate",
+        "type": ["Normal"],
+        "abilities": ["Run Away", "Guts"],
+        "baseStats": {
+          "hp": 55,
+          "attack": 81,
+          "defense": 60,
+          "specialAttack": 50,
+          "specialDefense": 70,
+          "speed": 97
+        },
+        "evolution": {
+          "nextEvolution": "None",
+          "level": 0
+        }
+      },
+      {
+        "pokemonId": "021",
+        "name": "Spearow",
+        "type": ["Normal", "Flying"],
+        "abilities": ["Keen Eye"],
+        "baseStats": {
+          "hp": 40,
+          "attack": 60,
+          "defense": 30,
+          "specialAttack": 31,
+          "specialDefense": 31,
+          "speed": 70
+        },
+        "evolution": {
+          "nextEvolution": "Fearow",
+          "level": 20
+        }
+      },
+      {
+        "pokemonId": "022",
+        "name": "Fearow",
+        "type": ["Normal", "Flying"],
+        "abilities": ["Keen Eye"],
+        "baseStats": {
+          "hp": 65,
+          "attack": 90,
+          "defense": 65,
+          "specialAttack": 61,
+          "specialDefense": 61,
+          "speed": 100
+        },
+        "evolution": {
+          "nextEvolution": "None",
+          "level": 0
+        }
+      }
+    ]
+  },
+  "pokemon-detail": {
+    "001": {
+      "basicInfo": {
+        "listId": "001",
+        "categories": ["Seed Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Bulbasaur",
+          "species": "Seed Pokémon",
+          "types": ["Grass", "Poison"],
+          "abilities": ["Overgrow", "Chlorophyll"],
+          "height": "0.7 m",
+          "weight": "6.9 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "specialAttack": 65,
+            "specialDefense": 65,
+            "speed": 45
+          },
+          "evolution": {
+            "nextEvolution": "Ivysaur",
+            "level": 16
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
+          },
+          {
+            "version": "Yellow",
+            "entry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/bulbasaur",
+          "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pokémon)"
+        ]
+      }
+    },
+    "002": {
+      "basicInfo": {
+        "listId": "002",
+        "categories": ["Seed Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Ivysaur",
+          "species": "Seed Pokémon",
+          "types": ["Grass", "Poison"],
+          "abilities": ["Overgrow", "Chlorophyll"],
+          "height": "1.0 m",
+          "weight": "13.0 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "specialAttack": 80,
+            "specialDefense": 80,
+            "speed": 60
+          },
+          "evolution": {
+            "nextEvolution": "Venusaur",
+            "level": 32
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Ivysaur evolves from Bulbasaur. It is a medium-sized Pokémon, known for the plant on its back.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "When the bulb on its back grows large, it appears to lose the ability to battle, but its power can be unleashed at any time."
+          },
+          {
+            "version": "Yellow",
+            "entry": "There is a plant on its back. As it grows, the plant also grows larger and eventually blossoms."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/ivysaur",
+          "https://bulbapedia.bulbagarden.net/wiki/Ivysaur_(Pokémon)"
+        ]
+      }
+    },
+    "003": {
+      "basicInfo": {
+        "listId": "003",
+        "categories": ["Seed Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Venusaur",
+          "species": "Seed Pokémon",
+          "types": ["Grass", "Poison"],
+          "abilities": ["Overgrow", "Chlorophyll"],
+          "height": "2.0 m",
+          "weight": "100.0 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "specialAttack": 100,
+            "specialDefense": 100,
+            "speed": 80
+          },
+          "evolution": {
+            "nextEvolution": "None",
+            "level": 0
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Venusaur is the final form of Bulbasaur's evolutionary line. The large plant on its back continues to grow throughout its life.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Its plant blooms when it is in contact with sunlight. The larger the bloom, the more powerful the Venusaur becomes."
+          },
+          {
+            "version": "Yellow",
+            "entry": "The flower on its back is said to bloom when the Pokémon is in a battle or under extreme stress."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/venusaur",
+          "https://bulbapedia.bulbagarden.net/wiki/Venusaur_(Pokémon)"
+        ]
+      }
+    },
+    "004": {
+      "basicInfo": {
+        "listId": "004",
+        "categories": ["Lizard Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Charmander",
+          "species": "Lizard Pokémon",
+          "types": ["Fire"],
+          "abilities": ["Blaze"],
+          "height": "0.6 m",
+          "weight": "8.5 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "specialAttack": 60,
+            "specialDefense": 50,
+            "speed": 65
+          },
+          "evolution": {
+            "nextEvolution": "Charmeleon",
+            "level": 16
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Charmander is a small Fire-type Pokémon that evolves into Charmeleon, and eventually into Charizard.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Charmander is a popular companion due to its fire-based abilities and its ability to produce flames on its tail."
+          },
+          {
+            "version": "Yellow",
+            "entry": "The flame on Charmander's tail flickers when the Pokémon is happy or excited."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/charmander",
+          "https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pokémon)"
+        ]
+      }
+    },
+    "005": {
+      "basicInfo": {
+        "listId": "005",
+        "categories": ["Flame Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Charmeleon",
+          "species": "Flame Pokémon",
+          "types": ["Fire"],
+          "abilities": ["Blaze"],
+          "height": "1.1 m",
+          "weight": "19.0 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "specialAttack": 80,
+            "specialDefense": 65,
+            "speed": 80
+          },
+          "evolution": {
+            "nextEvolution": "Charizard",
+            "level": 36
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Charmeleon is a hot-tempered Pokémon that evolves from Charmander. It’s more agile and dangerous than its first form.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Charmeleon’s fiery tail burns hotter when it is angry, making it more dangerous in combat."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Charmeleon evolves from Charmander at level 16, gaining an enhanced set of flames."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/charmeleon",
+          "https://bulbapedia.bulbagarden.net/wiki/Charmeleon_(Pokémon)"
+        ]
+      }
+    },
+    "006": {
+      "basicInfo": {
+        "listId": "006",
+        "categories": ["Flame Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Charizard",
+          "species": "Flame Pokémon",
+          "types": ["Fire", "Flying"],
+          "abilities": ["Blaze", "Solar Power"],
+          "height": "1.7 m",
+          "weight": "90.5 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "specialAttack": 109,
+            "specialDefense": 85,
+            "speed": 100
+          },
+          "evolution": {
+            "nextEvolution": "None",
+            "level": 0
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Charizard flies in search of powerful opponents. Its fiery breath can melt boulders and ignite forests.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires."
+          },
+          {
+            "version": "Yellow",
+            "entry": "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/charizard",
+          "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pokémon)"
+        ]
+      }
+    },
+    "007": {
+      "basicInfo": {
+        "listId": "007",
+        "categories": ["Tiny Turtle Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Squirtle",
+          "species": "Tiny Turtle Pokémon",
+          "types": ["Water"],
+          "abilities": ["Torrent"],
+          "height": "0.5 m",
+          "weight": "9.0 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "specialAttack": 50,
+            "specialDefense": 64,
+            "speed": 43
+          },
+          "evolution": {
+            "nextEvolution": "Wartortle",
+            "level": 16
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Squirtle's shell is both a defensive tool and a buoyancy aid. It sprays foam from its mouth in battle.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "After birth, its back swells and hardens into a shell. It sprays potent foam from its mouth."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Shoots water at prey while in the water. Withdraws into its shell when in danger."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/squirtle",
+          "https://bulbapedia.bulbagarden.net/wiki/Squirtle_(Pokémon)"
+        ]
+      }
+    },
+    "008": {
+      "basicInfo": {
+        "listId": "008",
+        "categories": ["Turtle Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Wartortle",
+          "species": "Turtle Pokémon",
+          "types": ["Water"],
+          "abilities": ["Torrent"],
+          "height": "1.0 m",
+          "weight": "22.5 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "specialAttack": 65,
+            "specialDefense": 80,
+            "speed": 58
+          },
+          "evolution": {
+            "nextEvolution": "Blastoise",
+            "level": 36
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Wartortle has a long, furry tail that symbolizes longevity. It hides in water to stalk prey.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Often hides in water to stalk unwary prey. When swimming quickly, it moves its ears to maintain balance."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Its tail is covered with rich, thick fur that deepens in color with age."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/wartortle",
+          "https://bulbapedia.bulbagarden.net/wiki/Wartortle_(Pokémon)"
+        ]
+      }
+    },
+    "009": {
+      "basicInfo": {
+        "listId": "009",
+        "categories": ["Shellfish Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Blastoise",
+          "species": "Shellfish Pokémon",
+          "types": ["Water"],
+          "abilities": ["Torrent", "Rain Dish"],
+          "height": "1.6 m",
+          "weight": "85.5 kg",
+          "genderRatio": {
+            "male": "87.5%",
+            "female": "12.5%"
+          },
+          "baseStats": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "specialAttack": 85,
+            "specialDefense": 105,
+            "speed": 78
+          },
+          "evolution": {
+            "nextEvolution": "None",
+            "level": 0
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Blastoise has water spouts on its shell for high-pressure water attacks. It crushes foes with its weight.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/blastoise",
+          "https://bulbapedia.bulbagarden.net/wiki/Blastoise_(Pokémon)"
+        ]
+      }
+    },
+    "010": {
+      "basicInfo": {
+        "listId": "010",
+        "categories": ["Worm Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Caterpie",
+          "species": "Worm Pokémon",
+          "types": ["Bug"],
+          "abilities": ["Shield Dust", "Run Away"],
+          "height": "0.3 m",
+          "weight": "2.9 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 45,
+            "attack": 30,
+            "defense": 35,
+            "specialAttack": 20,
+            "specialDefense": 20,
+            "speed": 45
+          },
+          "evolution": {
+            "nextEvolution": "Metapod",
+            "level": 7
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Caterpie uses the suction cups on its feet to climb trees and devour leaves faster than it can grow.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+          },
+          {
+            "version": "Yellow",
+            "entry": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/caterpie",
+          "https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pokémon)"
+        ]
+      }
+    },
+    "011": {
+      "basicInfo": {
+        "listId": "011",
+        "categories": ["Cocoon Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Metapod",
+          "species": "Cocoon Pokémon",
+          "types": ["Bug"],
+          "abilities": ["Shed Skin"],
+          "height": "0.7 m",
+          "weight": "9.9 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 50,
+            "attack": 20,
+            "defense": 55,
+            "specialAttack": 25,
+            "specialDefense": 25,
+            "speed": 30
+          },
+          "evolution": {
+            "nextEvolution": "Butterfree",
+            "level": 10
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Metapod's hard shell protects its soft body. It prepares for evolution by remaining motionless.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless to avoid attack."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/metapod",
+          "https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pokémon)"
+        ]
+      }
+    },
+    "012": {
+      "basicInfo": {
+        "listId": "012",
+        "categories": ["Butterfly Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Butterfree",
+          "species": "Butterfly Pokémon",
+          "types": ["Bug", "Flying"],
+          "abilities": ["Compound Eyes", "Tinted Lens"],
+          "height": "1.1 m",
+          "weight": "32.0 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 60,
+            "attack": 45,
+            "defense": 50,
+            "specialAttack": 90,
+            "specialDefense": 80,
+            "speed": 70
+          },
+          "evolution": {
+            "nextEvolution": "None",
+            "level": 0
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Butterfree scatters toxic scales to protect itself. It can detect nectar from over 6 miles away.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/butterfree",
+          "https://bulbapedia.bulbagarden.net/wiki/Butterfree_(Pokémon)"
+        ]
+      }
+    },
+    "013": {
+      "basicInfo": {
+        "listId": "013",
+        "categories": ["Hairy Bug Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Weedle",
+          "species": "Hairy Bug Pokémon",
+          "types": ["Bug", "Poison"],
+          "abilities": ["Shield Dust", "Run Away"],
+          "height": "0.3 m",
+          "weight": "3.2 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "specialAttack": 20,
+            "specialDefense": 20,
+            "speed": 50
+          },
+          "evolution": {
+            "nextEvolution": "Kakuna",
+            "level": 7
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Weedle has an extremely acute sense of smell. It uses its poison barb to fend off attackers.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Often found in forests, eating leaves. It has a sharp, venomous stinger on its head."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/weedle",
+          "https://bulbapedia.bulbagarden.net/wiki/Weedle_(Pokémon)"
+        ]
+      }
+    },
+    "014": {
+      "basicInfo": {
+        "listId": "014",
+        "categories": ["Cocoon Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Kakuna",
+          "species": "Cocoon Pokémon",
+          "types": ["Bug", "Poison"],
+          "abilities": ["Shed Skin"],
+          "height": "0.6 m",
+          "weight": "10.0 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "specialAttack": 25,
+            "specialDefense": 25,
+            "speed": 35
+          },
+          "evolution": {
+            "nextEvolution": "Beedrill",
+            "level": 10
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Kakuna remains virtually immobile as it clings to a tree. However, it prepares for its evolution inside.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Almost incapable of movement, it leans against stout trees while waiting for its evolution."
+          },
+          {
+            "version": "Yellow",
+            "entry": "From this form, it will grow into an adult. As its body becomes softer, the shell hardens."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/kakuna",
+          "https://bulbapedia.bulbagarden.net/wiki/Kakuna_(Pokémon)"
+        ]
+      }
+    },
+    "015": {
+      "basicInfo": {
+        "listId": "015",
+        "categories": ["Poison Bee Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Beedrill",
+          "species": "Poison Bee Pokémon",
+          "types": ["Bug", "Poison"],
+          "abilities": ["Swarm", "Sniper"],
+          "height": "1.0 m",
+          "weight": "29.5 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "specialAttack": 45,
+            "specialDefense": 80,
+            "speed": 75
+          },
+          "evolution": {
+            "nextEvolution": "None",
+            "level": 0
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Beedrill is highly territorial. It uses its toxic stingers to defeat prey and protect its nest.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
+          },
+          {
+            "version": "Yellow",
+            "entry": "May appear in a swarm. Flies at violent speeds, stabbing prey with its toxic rear stinger."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/beedrill",
+          "https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pokémon)"
+        ]
+      }
+    },
+    "016": {
+      "basicInfo": {
+        "listId": "016",
+        "categories": ["Tiny Bird Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Pidgey",
+          "species": "Tiny Bird Pokémon",
+          "types": ["Normal", "Flying"],
+          "abilities": ["Keen Eye", "Tangled Feet", "Big Pecks"],
+          "height": "0.3 m",
+          "weight": "1.8 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "specialAttack": 35,
+            "specialDefense": 35,
+            "speed": 56
+          },
+          "evolution": {
+            "nextEvolution": "Pidgeotto",
+            "level": 18
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Pidgey has an extremely sharp sense of direction. It is capable of returning home over extremely long distances.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/pidgey",
+          "https://bulbapedia.bulbagarden.net/wiki/Pidgey_(Pokémon)"
+        ]
+      }
+    },
+    "017": {
+      "basicInfo": {
+        "listId": "017",
+        "categories": ["Bird Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Pidgeotto",
+          "species": "Bird Pokémon",
+          "types": ["Normal", "Flying"],
+          "abilities": ["Keen Eye", "Tangled Feet", "Big Pecks"],
+          "height": "1.1 m",
+          "weight": "30.0 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 63,
+            "attack": 60,
+            "defense": 55,
+            "specialAttack": 50,
+            "specialDefense": 50,
+            "speed": 71
+          },
+          "evolution": {
+            "nextEvolution": "Pidgeot",
+            "level": 36
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Pidgeotto is extremely territorial. It will fiercely peck at any intruder that approaches its nest.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Very protective of its sprawling territory, this Pokémon will fiercely peck at any intruder."
+          },
+          {
+            "version": "Yellow",
+            "entry": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/pidgeotto",
+          "https://bulbapedia.bulbagarden.net/wiki/Pidgeotto_(Pokémon)"
+        ]
+      }
+    },
+    "018": {
+      "basicInfo": {
+        "listId": "018",
+        "categories": ["Bird Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Pidgeot",
+          "species": "Bird Pokémon",
+          "types": ["Normal", "Flying"],
+          "abilities": ["Keen Eye", "Tangled Feet", "Big Pecks"],
+          "height": "1.5 m",
+          "weight": "39.5 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 83,
+            "attack": 80,
+            "defense": 75,
+            "specialAttack": 70,
+            "specialDefense": 70,
+            "speed": 101
+          },
+          "evolution": {
+            "nextEvolution": "None",
+            "level": 0
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Pidgeot flies at Mach 2 speed, making it a highly feared predator in the skies.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp."
+          },
+          {
+            "version": "Yellow",
+            "entry": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/pidgeot",
+          "https://bulbapedia.bulbagarden.net/wiki/Pidgeot_(Pokémon)"
+        ]
+      }
+    },
+    "019": {
+      "basicInfo": {
+        "listId": "019",
+        "categories": ["Mouse Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Rattata",
+          "species": "Mouse Pokémon",
+          "types": ["Normal"],
+          "abilities": ["Run Away", "Guts", "Hustle"],
+          "height": "0.3 m",
+          "weight": "3.5 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 30,
+            "attack": 56,
+            "defense": 35,
+            "specialAttack": 25,
+            "specialDefense": 35,
+            "speed": 72
+          },
+          "evolution": {
+            "nextEvolution": "Raticate",
+            "level": 20
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Rattata is cautious by nature. Even while it sleeps, it listens with its large ears.",
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/rattata",
+          "https://bulbapedia.bulbagarden.net/wiki/Rattata_(Pokémon)"
+        ]
+      }
+    },
+    "020": {
+      "basicInfo": {
+        "listId": "020",
+        "categories": ["Mouse Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Raticate",
+          "species": "Mouse Pokémon",
+          "types": ["Normal"],
+          "abilities": ["Run Away", "Guts", "Hustle"],
+          "height": "0.7 m",
+          "weight": "18.5 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 55,
+            "attack": 81,
+            "defense": 60,
+            "specialAttack": 50,
+            "specialDefense": 70,
+            "speed": 97
+          },
+          "evolution": {
+            "nextEvolution": "None",
+            "level": 0
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Raticate's sturdy fangs grow continuously. To keep them ground down, it gnaws on hard objects.",
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/raticate",
+          "https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pokémon)"
+        ]
+      }
+    },
+    "021": {
+      "basicInfo": {
+        "listId": "021",
+        "categories": ["Tiny Bird Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Spearow",
+          "species": "Tiny Bird Pokémon",
+          "types": ["Normal", "Flying"],
+          "abilities": ["Keen Eye", "Sniper"],
+          "height": "0.3 m",
+          "weight": "2.0 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 40,
+            "attack": 60,
+            "defense": 30,
+            "specialAttack": 31,
+            "specialDefense": 31,
+            "speed": 70
+          },
+          "evolution": {
+            "nextEvolution": "Fearow",
+            "level": 20
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Spearow flaps its wings at high speed to stay airborne. It can be seen swooping at high speeds.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+          },
+          {
+            "version": "Yellow",
+            "entry": "Inept at flying high. However, it can fly around very fast to protect its territory."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/spearow",
+          "https://bulbapedia.bulbagarden.net/wiki/Spearow_(Pokémon)"
+        ]
+      }
+    },
+    "022": {
+      "basicInfo": {
+        "listId": "022",
+        "categories": ["Beak Pokémon"],
+        "pokedexSource": "National",
+        "creationDate": "1996-02-27"
+      },
+      "entityInfo": {
+        "type": "POKEMON",
+        "pokemonDetails": {
+          "name": "Fearow",
+          "species": "Beak Pokémon",
+          "types": ["Normal", "Flying"],
+          "abilities": ["Keen Eye", "Sniper"],
+          "height": "1.2 m",
+          "weight": "38.0 kg",
+          "genderRatio": {
+            "male": "50%",
+            "female": "50%"
+          },
+          "baseStats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 65,
+            "specialAttack": 61,
+            "specialDefense": 61,
+            "speed": 100
+          },
+          "evolution": {
+            "nextEvolution": "None",
+            "level": 0
+          }
+        }
+      },
+      "additionalInfo": {
+        "description": "Fearow has been around for many years. It has a long neck and a large beak, making it easy to catch prey.",
+        "pokedexEntries": [
+          {
+            "version": "Red/Blue",
+            "entry": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
+          },
+          {
+            "version": "Yellow",
+            "entry": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly."
+          }
+        ],
+        "sources": [
+          "https://www.pokemon.com/us/pokedex/fearow",
+          "https://bulbapedia.bulbagarden.net/wiki/Fearow_(Pokémon)"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "/:requestUId/pokemon-list": "/pokemonList",
+  "/:requestUId/pokemon-detail": "/pokemonDetails/:pokemonId"
+}
