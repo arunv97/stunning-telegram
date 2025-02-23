@@ -1488,7 +1488,7 @@
           "types": ["Normal", "Flying"],
           "abilities": ["Keen Eye", "Sniper"],
           "height": "1.2 m",
-          "weight": "38.0 kg",
+          "weight": "37.0 kg",
           "genderRatio": {
             "male": "50%",
             "female": "50%"
